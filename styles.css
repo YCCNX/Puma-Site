@@ -1,0 +1,41 @@
+body {
+  height: 100%;
+  background-color: rgb(253, 236, 216);
+  font-family: "Rancho", cursive;
+}
+
+
+.display-5 {
+  font-family: "Skranji", system-ui;
+  color: #ffc340 !important;
+  text-shadow: 2px 2px #ff0000;
+  font-size: 3rem;
+}
+
+.lead {
+  color: #ffc340;
+  text-shadow: 0.5px 0.5px #ff0000;
+  font-size: 1.5rem;
+}
+
+.profile-image {
+  height: 200px;
+  border-radius: 50%;
+}
+
+h3 {
+  color: #ffc340 !important;
+  text-shadow: 2px 2px #ff0000;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.bottom-container {
+  text-align: center;
+}
+
+.icon-social{
+  height: 50px;
+  border-radius: 50%;
+  
+}
